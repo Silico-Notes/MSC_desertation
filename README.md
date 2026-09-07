@@ -1,4 +1,4 @@
-# Cervical Cancer RNA-seq: Differential Expression, Functional Enrichment and Network Analysis
+# Identification of Genomic Biomarkers in Cervical Carcinomas Using Bioinformatics Approaches
 
 This repository documents and preserves an MSc computational biology project investigating transcriptional differences between human cervical cancer samples and healthy controls using public NCBI SRA RNA-seq data. The repository is organized as a professional historical research portfolio, explicitly separating the documented thesis claims from the surviving computational evidence.
 
